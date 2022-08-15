@@ -7,7 +7,7 @@
 Train a custom object detection model with YOLO v7 (YOLOv7_Custom_training.ipynb) [link text](https://github.com/WongKinYiu/yolov7)
 
 * Training data was collected from yoga pose dataset [link text](https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset)
-* Labelling was done using Roboflow
+* Labelling was done using Roboflow. All labeled images were located at the dataset file 
 ![](https://drive.google.com/uc?export=view&id=1Z9D9aoqciDhjJaAB-_uRU8MsFgQl1CLs)
 
 #### For further details, please browse the YOLOv7_Custom_training.ipynb file
