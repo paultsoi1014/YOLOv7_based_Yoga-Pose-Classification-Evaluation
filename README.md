@@ -21,6 +21,6 @@ Train a custom object detection model with YOLO v7 (YOLOv7_Custom_training.ipynb
 * MoveNet lightning model (lite-model_movenet_singlepose_lightning_tflite_float16_4.tflite) was adopted for pose evaluation. Further details [link text](https://tfhub.dev/google/movenet/multipose/lightning/1)
 
 ### Sample output
-![](https://drive.google.com/uc?export=view&id=1uiDuYgg8dFci2DkT1bZ34wZ8yfbToZSK) ![](https://drive.google.com/uc?export=view&id=1U5oD6SBuyCByD_CHonlgK09oB6fH0EgP)
+![](https://drive.google.com/uc?export=view&id=1uiDuYgg8dFci2DkT1bZ34wZ8yfbToZSK)![](https://drive.google.com/uc?export=view&id=1U5oD6SBuyCByD_CHonlgK09oB6fH0EgP)
 
 #### For further details, please browse the YOLOv7_Custom_Detect.ipynb file
