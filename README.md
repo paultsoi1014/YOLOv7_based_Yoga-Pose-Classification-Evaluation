@@ -1,10 +1,10 @@
 # Yoga Pose Classification and Evaluation
 * Using YOLO-based model to achieve yoga pose classification (Tree & Godness)
-* Achieve human pose detection through using MoveNet lightning 
+* Achieve human pose detection through using MoveNet lightning model 
 
 ## Project workflow
 ### Step 1
-Train a custom object detection model with YOLO v7 (YOLOv7_Custom_training.ipynb) [link text](https://github.com/WongKinYiu/yolov7)
+Train a custom object detection model with YOLO v7 (YOLOv7_Custom_training.ipynb). Download link [link text](https://github.com/WongKinYiu/yolov7)
 
 * Training data was collected from yoga pose dataset [link text](https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset)
 * Labelling was done using Roboflow. All labeled images were located at the dataset file 
@@ -17,6 +17,7 @@ Train a custom object detection model with YOLO v7 (YOLOv7_Custom_training.ipynb
 ### Step 2
 1. Running YOLOv7_Custom_Detect.ipynb to classify and evaluate different yoga pose
 * The trained weight (best.pt) and modified .py file for detection (detect.py) are stored in the yolov7_custom folder
+* Cloning the YOLOv7 repository [link text](https://github.com/WongKinYiu/yolov7). Place the best.pt weight file and replace the detect.py file in the in the repository 
 * MoveNet lightning model (lite-model_movenet_singlepose_lightning_tflite_float16_4.tflite) was adopted for pose evaluation. Further details [link text](https://tfhub.dev/google/movenet/multipose/lightning/1)
 
 ### Sample output
