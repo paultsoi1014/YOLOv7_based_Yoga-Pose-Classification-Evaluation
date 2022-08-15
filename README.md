@@ -9,9 +9,9 @@
 
 
 ### Sample output
-![](https://drive.google.com/uc?export=1xOnYO71Jk8NxO9uXLudqP33Ux0HEnH_E)
+![](https://drive.google.com/uc?export=view&id=1xOnYO71Jk8NxO9uXLudqP33Ux0HEnH_E)
 
-![](https://drive.google.com/uc?export=1yM1zoBJK2ahXr7Urq1l7wabNkRcywoYz)
+![](https://drive.google.com/uc?export=view&id=1yM1zoBJK2ahXr7Urq1l7wabNkRcywoYz)
 
 2. The trained weight (best.pt) and modified .py file for detection (detect.py) are stored in the yolov7_custom folder
 
