@@ -11,9 +11,7 @@ Train a custom object detection model with YOLO v7 (YOLOv7_Custom_training.ipynb
 ![](https://drive.google.com/uc?export=view&id=1Z9D9aoqciDhjJaAB-_uRU8MsFgQl1CLs)
 
 ### Sample output
-![](https://drive.google.com/uc?export=view&id=1xOnYO71Jk8NxO9uXLudqP33Ux0HEnH_E)
-
-![](https://drive.google.com/uc?export=view&id=1yM1zoBJK2ahXr7Urq1l7wabNkRcywoYz)
+![](https://drive.google.com/uc?export=view&id=1xOnYO71Jk8NxO9uXLudqP33Ux0HEnH_E) ![](https://drive.google.com/uc?export=view&id=1yM1zoBJK2ahXr7Urq1l7wabNkRcywoYz)
 
 ### Step 2
 1. Running YOLOv7_Custom_Detect.ipynb to classify and evaluate different yoga pose
