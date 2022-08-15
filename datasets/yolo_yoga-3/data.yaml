@@ -1,0 +1,6 @@
+names:
+- godness
+- tree
+nc: 2
+train: /content/datasets/yolo_yoga-3/train/images
+val: /content/datasets/yolo_yoga-3/valid/images
